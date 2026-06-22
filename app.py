@@ -23,4 +23,3 @@ if pesquisar:
         st.text(letra)
     else:
         st.error("Infelizmente não foi possível encontrar a letra dessa música")
-
