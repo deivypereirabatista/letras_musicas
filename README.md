@@ -16,9 +16,7 @@ A aplicação atual é um buscador de letras de músicas que consome uma API pú
  **Clone o repositório:**
  
    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-   cd SEU_REPOSITORIO
-   cd SEU_REPOSITORIO
-   
+  
   **Instale as dependências:**
   
     pip install streamlit requests
